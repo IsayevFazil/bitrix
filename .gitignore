@@ -1,0 +1,13 @@
+Thumbs.db
+.DS_Store
+*.zip
+*.rar
+*.tar
+*.gz
+*.bz2
+*.tgz
+*.tbz
+/.idea
+/.vscode
+/.ht*
+
